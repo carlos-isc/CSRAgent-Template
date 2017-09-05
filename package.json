@@ -10,13 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/carlos-isc/CSRAgent-Template.git"
   },
+  "keywords": [],
   "author": "Carlos Gtz V",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/carlos-isc/CSRAgent-Template/issues"
   },
   "devDependencies": {
-    "eslint": "^4.6.1"
+    "babel-loader": "^7.1.2",
+    "eslint": "^4.6.1",
+    "webpack": "^3.5.5"
   },
   "dependencies": {
     "babel-core": "^6.26.0",
