@@ -12,3 +12,11 @@ git push -u origin master
 git remote add origin https://github.com/carlos-isc/CSRAgent-Template.git
 git push -u origin master
 
+
+http://andrewhfarmer.com/build-your-own-starter/#0-intro
+
+install yarn
+https://yarnpkg.com/lang/en/docs/install/
+
+add package json
+yarn init
