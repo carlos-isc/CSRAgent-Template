@@ -1,0 +1,9 @@
+{
+  "name": "CSRXPM_template",
+  "version": "1.0.0",
+  "description": "CSR XPM UI Template",
+  "main": "lib/server.js",
+  "repository": "https://github.com/carlos-isc/CSRAgent-Template.git",
+  "author": "Carlos Gtz V",
+  "license": "MIT"
+}
